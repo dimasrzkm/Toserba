@@ -1,0 +1,16 @@
+{
+    "name": "dimasrzkm/toserba",
+    "description": "Sistem aplikasi Toko serba ada",
+    "authors": [
+        {
+            "name": "Dimas Rizki M",
+            "email": "dimas1.mahendra@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    }
+}
